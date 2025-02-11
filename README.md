@@ -16,6 +16,11 @@
 👉 **Food Recommendations** – AI-based suggestions for must-try local cuisines.   
 👉 **Budget Estimation** – Plan your trip within your budget constraints.  
 
+## 📸 Screenshots  
+
+| 🏕️ User Preferences  | 🍽️ AI - Recommendations |  
+|-------------------|----------------------|  
+| ![image](https://github.com/user-attachments/assets/db6a0e14-2955-44c0-8bd7-2f6d78d48c8a) | ![image](https://github.com/user-attachments/assets/98ebc082-f314-4e9f-9c3a-638bdfb02059)
 
 ## 🚀 Getting Started 
 ---
@@ -59,11 +64,6 @@ To deploy the project, run:
 npm run build  
 ```
 
-## 📸 Screenshots  
-
-| 🏕️ User Preferences  | 🍽️ AI - Recommendations |  
-|-------------------|----------------------|  
-| ![image](https://github.com/user-attachments/assets/db6a0e14-2955-44c0-8bd7-2f6d78d48c8a) | ![image](https://github.com/user-attachments/assets/98ebc082-f314-4e9f-9c3a-638bdfb02059)
 ## 💡 Future Enhancements  
 - 🧠 **AI Chatbot** for real-time travel assistance.  
 - 🌍 **Multilingual Support** for global users.  
