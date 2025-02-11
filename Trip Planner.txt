@@ -1,0 +1,16 @@
+Trip Planner
+____________
+
+
+tech used:
+
+1) Vite and React -- main framework
+
+2) tailwind and shadcn/ui -- css and other components
+
+3)  router Dom --routings in the apps
+
+
+RFCE to create  a basic react fun in easy way using extensions like : ES7+ React/Redux/React... and Tailwind CSS IntelliSe
+
+logo pisium -- for logo 
