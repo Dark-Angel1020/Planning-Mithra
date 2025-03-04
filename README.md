@@ -28,7 +28,7 @@
 ### 🔽 Clone the Repository  
 
 ```bash  
-git clone https://github.com/Dark-Angel1020/Planning-Mitra.git  
+git clone https://github.com/Dark-Angel1020/Planning-Mithra.git  
 cd Planning-Mitra  
 ```
 
