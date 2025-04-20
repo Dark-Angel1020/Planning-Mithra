@@ -32,10 +32,9 @@ git clone https://github.com/Dark-Angel1020/Planning-Mithra.git
 cd Planning-Mitra  
 ```
 
-### 🏢 Frontend Setup  
+
 
 ```bash  
-cd frontend  
 npm install  
 ```
 
